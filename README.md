@@ -20,7 +20,8 @@ week6/ → Mini projects (coming soon)
 Python 3.11 · NumPy · Pandas · Matplotlib · Scikit-learn
 
 ## 👨‍💻 About Me
-B.Tech CSE (AI & ML) @ Keshav Memorial College of Engineering (KMCE), Hyderabad
+B.Tech CSE (AI & ML) @ Keshav Memorial College of Engineering (KMCE)
+Hyderabad
 Freelancer — Web Design + AI Automation
 
 ## 📈 Progress
