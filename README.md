@@ -20,8 +20,8 @@ week6/ → Mini projects (coming soon)
 Python 3.11 · NumPy · Pandas · Matplotlib · Scikit-learn
 
 ## 👨‍💻 About Me
-B.Tech CSE (AI & ML) @ CVR College of Engineering, Hyderabad
-Freelancer — Web Design + AI Automation @ Fiverr (sampath7890)
+B.Tech CSE (AI & ML) @ Keshav Memorial College of Engineering (KMCE), Hyderabad
+Freelancer — Web Design + AI Automation
 
 ## 📈 Progress
 - [x] Week 1 — Python basics
