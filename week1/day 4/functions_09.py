@@ -13,6 +13,4 @@ for mark in class_marks:
         print(f"{mark}=fail")
         fail_count+=1
 print(f"passing members = {pass_count}")
-print(f"failing count = {fail_count}")        
-
-
+print(f"failing count = {fail_count}")   
