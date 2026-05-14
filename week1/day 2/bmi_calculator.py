@@ -23,4 +23,3 @@ elif bmi <= 29.9 :
     print("overweight")
 else: 
     print("obese")            
-
