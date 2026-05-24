@@ -20,6 +20,7 @@ def get_highest(marks) :
         if mark > highest :
             highest = mark
     return highest
+
 def get_lowest(marks) :
     lowest = marks[0]
     for mark in marks :

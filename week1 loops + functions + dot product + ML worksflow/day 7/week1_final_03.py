@@ -20,14 +20,14 @@ def find_similar(target, students, names) :
 
 names = ["Rahul", "Sneha", "Arjun", "Priya"]
 
+# Target student
+target = [80, 85, 84]
 students = [
     [85, 90, 88],   # Rahul
     [78, 82, 80],   # Sneha
     [92, 95, 91],   # Arjun
     [70, 75, 72]    # Priya
 ]
-target = [80, 85, 84]
-
 
 answer = find_similar(target, students, names)
 

@@ -9,11 +9,11 @@ data = np.array([[10, 20, 30, 40],
 
 # Predict BEFORE running (write answers as comments):
 # np.sum(data)              → ? all data should be added
-# np.sum(data, axis=0)      → ?
-# np.sum(data, axis=1)      → ?
-# np.mean(data, axis=0)     → ?
-# data.max()                → ?
-# np.argmax(data, axis=1)   → ?   # what does argmax do?
+# np.sum(data, axis=0)      → ? addation each column  
+# np.sum(data, axis=1)      → ? addation of each row
+# np.mean(data, axis=0)     → ? mean of each column
+# data.max()                → ? maximum number of the data (90)
+# np.argmax(data, axis=1)   → ?   # what does argmax do?  position of the highest number in the data (index number of highest point in data)
 
 print(np.sum(data))
 print(np.sum(data, axis=0))

@@ -10,4 +10,4 @@ import numpy as np
 marks = np.array([45, 78, 92, 35, 88, 61])
 normalisation_marks = (marks - np.min(marks))  / (np.max(marks) - np.min(marks))
 
-print(f"normalisation marks = {normalisation_marks}.2f")
+print(f"normalisation marks = {normalisation_marks}.")

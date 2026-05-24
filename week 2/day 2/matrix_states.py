@@ -19,7 +19,7 @@ marks = np.array([
 
 average_student = np.mean(marks , axis = 1)
 average_subject = np.mean(marks , axis = 0)
-highest_student = np.argmax(average_student.2f)
+highest_student = np.argmax(average_student)
 lowest_subject = np.argmax(average_subject)
 print(f"→ Average mark per student = {average_student}")
 print(f"→ Average mark per subject = {average_subject}")
