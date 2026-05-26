@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a32ba8f3-9a52-47e4-92f8-a89bef5a3cf2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week 2 numpy + matrices + exploring real data/filtering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 3 pandas + derivatives + linear regressions/day 2/missing_values.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +59,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.basic_analysis.executor": "Run",
     "Python.basic_states.executor": "Run",
+    "Python.filtering.executor": "Run",
     "Python.first_look.executor": "Run",
     "Python.missing_values.executor": "Run",
     "Python.panadas_titanic_datase.executor": "Run",
@@ -81,6 +82,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\ML phase 1\week 3 pandas + derivatives + linear regressions\day 2" />
       <recent name="C:\ML phase 1\ML-phase1-foundation" />
       <recent name="C:\ML phase 1" />
     </key>
