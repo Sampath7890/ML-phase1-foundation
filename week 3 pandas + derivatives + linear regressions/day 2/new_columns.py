@@ -15,6 +15,7 @@ df["age_group"] = df["Age"].apply(
     else "abult" if x > 60
     else "senior"
 )
+print(df.shape)
 print(df[["Age" ,"age_group"]].head())
 
 print("survival rate per age group")
