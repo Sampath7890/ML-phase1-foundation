@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a32ba8f3-9a52-47e4-92f8-a89bef5a3cf2" name="Changes" comment="" />
+    <list default="true" id="a32ba8f3-9a52-47e4-92f8-a89bef5a3cf2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="143" />
+    <option name="cachedIndexableFilesCount" value="145" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,8 +61,10 @@
     "Python.basic_states.executor": "Run",
     "Python.filtering.executor": "Run",
     "Python.first_look.executor": "Run",
+    "Python.gradient_descent.executor": "Run",
     "Python.group_by.executor": "Run",
     "Python.missing_values.executor": "Run",
+    "Python.ml.executor": "Run",
     "Python.new_columns.executor": "Run",
     "Python.panadas_titanic_datase.executor": "Run",
     "Python.pandas_01.executor": "Run",
@@ -83,6 +87,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\ML phase 1\week 3 pandas + derivatives + linear regressions\day 4" />
       <recent name="C:\ML phase 1\week 3 pandas + derivatives + linear regressions\day 2" />
       <recent name="C:\ML phase 1\ML-phase1-foundation" />
       <recent name="C:\ML phase 1" />
