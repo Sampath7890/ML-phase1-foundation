@@ -27,6 +27,6 @@ Freelancer — Web Design + AI Automation
 ## 📈 Progress
 - [x] Week 1 — Python basics + Loops + functions
 - [x] Week 2 — NumPy + matrices
-- [ ] Week 3 — Pandas + derivatives
+- [x] Week 3 — Pandas + derivatives
 - [ ] Week 4 — Visualization + Linear Regression
 - [ ] Week 5 — Mini projects
