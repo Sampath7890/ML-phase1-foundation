@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a32ba8f3-9a52-47e4-92f8-a89bef5a3cf2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 2/visulazation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 2/scatter_plot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +71,7 @@
     "Python.pandas_01.executor": "Run",
     "Python.pandas_df.executor": "Run",
     "Python.pandas_titanic_dataset_02.executor": "Run",
+    "Python.scatter_plot.executor": "Run",
     "Python.selecting.executor": "Run",
     "Python.titanic_dataset_03.executor": "Run",
     "Python.visulazation.executor": "Run",
@@ -110,5 +112,16 @@
       <updated>1779705025971</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 2/visulazation.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
