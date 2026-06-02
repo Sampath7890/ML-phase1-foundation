@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a32ba8f3-9a52-47e4-92f8-a89bef5a3cf2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 2/scatter_plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 2/bar_graph.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +58,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.EDA_report.executor": "Run",
+    "Python.bar_graph.executor": "Run",
     "Python.basic_analysis.executor": "Run",
     "Python.basic_states.executor": "Run",
     "Python.filtering.executor": "Run",
