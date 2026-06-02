@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a32ba8f3-9a52-47e4-92f8-a89bef5a3cf2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 2/subplot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 2/score_histogram.png" beforeDir="false" afterPath="$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 2/score_histogram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 2/iris_graph.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +65,7 @@
     "Python.gradient_descent.executor": "Run",
     "Python.group_by.executor": "Run",
     "Python.histogram.executor": "Run",
+    "Python.iris_graph.executor": "Run",
     "Python.missing_values.executor": "Run",
     "Python.ml.executor": "Run",
     "Python.new_columns.executor": "Run",
@@ -126,7 +126,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 2/subplot.py</url>
-          <line>5</line>
+          <line>20</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
