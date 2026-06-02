@@ -4,7 +4,7 @@ Load titanic.csv. Print: total passengers, total columns, column names, data typ
 many missing values in each column."""
 
 import pandas as pd
-df = pd.read_csv(r'C:\ML phase 1\week 3 pandas + derivatives + linear regressions\day 1\tested.csv')
+df = pd.read_csv(r'/week 4 Visualization + Probability + Linear Regression Code/day 2/tested.csv')
 print("total passangers :",df.shape[0])
 print("total columns :",df.shape[1])
 print("column names :", df.columns)

@@ -7,7 +7,7 @@ What was the average age of all passengers?
 What was the most expensive ticket fare?"""
 
 import pandas as pd
-df = pd.read_csv(r'C:\ML phase 1\week 3 pandas + derivatives + linear regressions\day 1\tested.csv')
+df = pd.read_csv(r'/week 4 Visualization + Probability + Linear Regression Code/day 2/tested.csv')
 print("Survived : ",df['Survived'].sum())
 print("not survived :",(df['Survived'] == 0).sum())
 print("Average aage :",df["Age"].mean())

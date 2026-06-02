@@ -6,7 +6,7 @@ How many missing values does Age have now?
 Drop any rows where Embarked is missing.
 Print the shape before and after each operation."""
 import pandas as pd
-df = pd.read_csv(r'C:\ML phase 1\week 3 pandas + derivatives + linear regressions\day 1/tested.csv')
+df = pd.read_csv(r'/week 4 Visualization + Probability + Linear Regression Code/day 2/tested.csv')
 print("original shape: ",df.shape)
 print("missing values Before operantions \n",df.isnull().sum())
 print("missing values of Age",df['Age'].isnull().sum())

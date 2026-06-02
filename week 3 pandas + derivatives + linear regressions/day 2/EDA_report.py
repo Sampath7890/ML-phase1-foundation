@@ -10,7 +10,7 @@ Write a function titanic_report(df) that prints a complete report:
 
 Call the function. This is a real data science EDA report."""
 import pandas as pd
-df = pd.read_csv(r'C:\ML phase 1\week 3 pandas + derivatives + linear regressions\day 1/tested.csv')
+df = pd.read_csv(r'/week 4 Visualization + Probability + Linear Regression Code/day 2/tested.csv')
 
 def titanic_report(df):
     print("=========Titanic Report=========00")

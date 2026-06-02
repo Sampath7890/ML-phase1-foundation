@@ -8,7 +8,7 @@ Answer using groupby — one line each:
 Write one sentence interpreting each result."""
 
 import pandas as pd
-df = pd.read_csv(r'C:\ML phase 1\week 3 pandas + derivatives + linear regressions\day 1/tested.csv')
+df = pd.read_csv(r'/week 4 Visualization + Probability + Linear Regression Code/day 2/tested.csv')
 print("Average age by survival status (survived vs not)")
 print(df.groupby('Survived')["Age"].mean())
 
