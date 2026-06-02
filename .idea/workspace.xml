@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a32ba8f3-9a52-47e4-92f8-a89bef5a3cf2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 2/histogram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 2/subplot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 2/score_histogram.png" beforeDir="false" afterPath="$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 2/score_histogram.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +65,7 @@
     "Python.first_look.executor": "Run",
     "Python.gradient_descent.executor": "Run",
     "Python.group_by.executor": "Run",
+    "Python.histogram.executor": "Run",
     "Python.missing_values.executor": "Run",
     "Python.ml.executor": "Run",
     "Python.new_columns.executor": "Run",
@@ -74,6 +75,7 @@
     "Python.pandas_titanic_dataset_02.executor": "Run",
     "Python.scatter_plot.executor": "Run",
     "Python.selecting.executor": "Run",
+    "Python.subplot.executor": "Run",
     "Python.titanic_dataset_03.executor": "Run",
     "Python.visulazation.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -121,6 +123,11 @@
           <url>file://$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 2/visulazation.py</url>
           <line>15</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 2/subplot.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
