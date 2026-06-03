@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a32ba8f3-9a52-47e4-92f8-a89bef5a3cf2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 2/tested.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 2/titanic_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 2/manual_linear_regression.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 3 pandas + derivatives + linear regressions/day 2/EDA_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/week 3 pandas + derivatives + linear regressions/day 2/EDA_report.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 3 pandas + derivatives + linear regressions/day 2/basic_states.py" beforeDir="false" afterPath="$PROJECT_DIR$/week 3 pandas + derivatives + linear regressions/day 2/basic_states.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 3 pandas + derivatives + linear regressions/day 2/first_look.py" beforeDir="false" afterPath="$PROJECT_DIR$/week 3 pandas + derivatives + linear regressions/day 2/first_look.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 3 pandas + derivatives + linear regressions/day 2/group_by.py" beforeDir="false" afterPath="$PROJECT_DIR$/week 3 pandas + derivatives + linear regressions/day 2/group_by.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 3 pandas + derivatives + linear regressions/day 2/missing_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/week 3 pandas + derivatives + linear regressions/day 2/missing_values.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 3 pandas + derivatives + linear regressions/day 2/new_columns.py" beforeDir="false" afterPath="$PROJECT_DIR$/week 3 pandas + derivatives + linear regressions/day 2/new_columns.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 3 pandas + derivatives + linear regressions/day 2/selecting.py" beforeDir="false" afterPath="$PROJECT_DIR$/week 3 pandas + derivatives + linear regressions/day 2/selecting.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +67,7 @@
     "Python.group_by.executor": "Run",
     "Python.histogram.executor": "Run",
     "Python.iris_graph.executor": "Run",
+    "Python.manual_linear_regression.executor": "Run",
     "Python.missing_values.executor": "Run",
     "Python.ml.executor": "Run",
     "Python.new_columns.executor": "Run",
