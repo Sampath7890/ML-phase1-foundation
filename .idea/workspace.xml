@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a32ba8f3-9a52-47e4-92f8-a89bef5a3cf2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 2/manual_linear_regression.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 5/datavisualization_seaborn.py" beforeDir="false" afterPath="$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 5/datavisualization_seaborn.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="153" />
+    <option name="cachedIndexableFilesCount" value="172" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,6 +61,7 @@
     "Python.bar_graph.executor": "Run",
     "Python.basic_analysis.executor": "Run",
     "Python.basic_states.executor": "Run",
+    "Python.datavisualization_seaborn.executor": "Run",
     "Python.filtering.executor": "Run",
     "Python.first_look.executor": "Run",
     "Python.gradient_descent.executor": "Run",
@@ -71,6 +72,7 @@
     "Python.missing_values.executor": "Run",
     "Python.ml.executor": "Run",
     "Python.new_columns.executor": "Run",
+    "Python.normal_distribution.executor": "Run",
     "Python.panadas_titanic_datase.executor": "Run",
     "Python.pandas_01.executor": "Run",
     "Python.pandas_df.executor": "Run",
@@ -135,6 +137,10 @@
           <url>file://$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 2/subplot.py</url>
           <line>20</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week 4 Visualization + Probability + Linear Regression Code/day 5/normal_distribution.py</url>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
