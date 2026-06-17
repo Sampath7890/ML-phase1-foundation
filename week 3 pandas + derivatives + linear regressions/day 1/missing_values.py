@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load data
-df = pd.read_csv("tested.csv")
+df = pd.read_csv("../../week 4 Visualization + Probability + Linear Regression Code/day 6/tested.csv")
 
 # 1. Original shape
 print("Original shape:", df.shape)

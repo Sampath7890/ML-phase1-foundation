@@ -1,5 +1,5 @@
 import pandas as pd
-df = pd.read_csv("tested.csv")
+df = pd.read_csv("../../week 4 Visualization + Probability + Linear Regression Code/day 6/tested.csv")
 adults = df[df["Age"] >= 18]
 print(adults.to_string() ,"\n", len(adults))
 suriviors = df[df["Survived"] == 1]

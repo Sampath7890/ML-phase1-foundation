@@ -1,5 +1,5 @@
 import pandas as pd
-df = pd.read_csv('tested.csv')
+df = pd.read_csv('../../week 4 Visualization + Probability + Linear Regression Code/day 6/tested.csv')
 print(df["Age"].head())
 print(df[["Name", "Age", "Survived"]].head())
 print(df.iloc[0])
