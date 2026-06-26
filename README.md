@@ -29,4 +29,4 @@ Freelancer — Web Design + AI Automation
 - [x] Week 2 — NumPy + matrices
 - [x] Week 3 — Pandas + derivatives
 - [x] Week 4 — Visualization + Linear Regression
-- [ ] Week 5 — Mini projects
+- [x] Week 5 — Mini projects
