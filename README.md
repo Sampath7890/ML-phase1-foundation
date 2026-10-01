@@ -1,4 +1,4 @@
-# ML-phase1-foundation
+in# ML-phase1-foundation
 # 🤖 ML Phase 1 — Foundations
 
 > Learning Python, Mathematics, and Machine Learning from scratch.
@@ -7,6 +7,7 @@
 ## 📅 What I'm building
 A structured self-study plan covering Python fundamentals, 
 linear algebra, calculus, probability, and linear regression.
+
 
 ## 🗂️ Structure
 week1/ → Python basics — variables, arithmetic, f-strings, calculator
