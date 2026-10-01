@@ -23,7 +23,8 @@ Python 3.11 · NumPy · Pandas · Matplotlib · Scikit-learn
 B.Tech CSE (AI & ML) @ Keshav Memorial College of Engineering (KMCE)
 Hyderabad
 Freelancer — Web Design + AI Automation
-        
+  
+      
 ## 📈 Progress
 - [x] Week 1 — Python basics + Loops + functions
 - [x] Week 2 — NumPy + matrices
